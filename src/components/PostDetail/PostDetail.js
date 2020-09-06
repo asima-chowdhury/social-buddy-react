@@ -58,7 +58,7 @@ const PostDetail = () => {
             <CardHeader
                 avatar={
                     <Avatar aria-label="post" className={classes.avatar}>
-                        SB
+                        SB 
                 </Avatar>
                 }
                 title="Social Buddy"
