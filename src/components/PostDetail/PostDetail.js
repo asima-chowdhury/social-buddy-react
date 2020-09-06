@@ -59,6 +59,7 @@ const PostDetail = () => {
                 avatar={
                     <Avatar aria-label="post" className={classes.avatar}>
                         SB 
+                </Avatar>
                 }
                 title="Social Buddy"
                 subheader="September 5, 2020"
