@@ -1,0 +1,12 @@
+.makeStyles-paper-2 {
+    margin: 0!important;
+}
+.comment-content{
+    padding-bottom:20px;
+    margin-bottom:20px;
+    border-bottom:1px solid rgb(170, 168, 168);
+}
+.comment-content span{
+    color: #e91e63;
+    font-weight:bold;
+}

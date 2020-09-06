@@ -6,7 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+a{
+  text-decoration: none !important;
+}
+.MuiAppBar-colorPrimary {
+  background-color: #e91e63 !important;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
