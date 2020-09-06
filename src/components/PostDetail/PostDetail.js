@@ -36,7 +36,7 @@ const useStyles = makeStyles((theme) => ({
         paddingLeft: '20px',
     },
     spanHighlight: {
-        color: "#e91e63",
+        color: "#e91e63"
     }
 }));
 
